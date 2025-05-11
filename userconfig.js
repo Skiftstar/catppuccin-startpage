@@ -32,7 +32,7 @@ const default_configuration = {
   openLastVisitedTab: true,
   tabs: [
     {
-      name: "Skifty",
+      name: "Ski fty",
       background_url: "src/img/banners/banner_15.gif",
       categories: [
         {
