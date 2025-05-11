@@ -28,25 +28,25 @@ const default_configuration = {
   },
   disabled: [],
   localIcons: false,
-  fastlink: "https://chat.openai.com",
+  fastlink: "https://Skiftstar.github.io",
   openLastVisitedTab: true,
   tabs: [
     {
       name: "myself",
-      background_url: "src/img/banners/banner_09.gif",
+      background_url: "src/img/banners/banner_15.gif",
       categories: [
         {
           name: "bookmarks",
           links: [
             {
-              name: "raindrop",
-              url: "https://app.raindrop.io",
-              icon: "droplet-bolt",
+              name: "YouTube",
+              url: "https://youtube.com",
+              icon: "movie",
               icon_color: palette.green,
             },
             {
-              name: "musicForProgramming();",
-              url: "https://musicforprogramming.net",
+              name: "ChatGPT",
+              url: "https://chat.openai.com",
               icon: "binary-tree",
               icon_color: palette.peach,
             },
@@ -56,7 +56,7 @@ const default_configuration = {
           name: "workspace",
           links: [
             {
-              name: "gmail",
+              name: "Gmail",
               url: "https://mail.google.com",
               icon: "brand-gmail",
               icon_color: palette.green,
@@ -68,12 +68,6 @@ const default_configuration = {
               icon_color: palette.peach,
             },
             {
-              name: "sheets",
-              url: "https://docs.google.com/spreadsheets",
-              icon: "table",
-              icon_color: palette.red,
-            },
-            {
               name: "drive",
               url: "https://drive.google.com/drive/home",
               icon: "brand-google-drive",
@@ -82,37 +76,19 @@ const default_configuration = {
           ],
         },
         {
-          name: "media",
+          name: "Dev",
           links: [
             {
-              name: "уп",
-              url: "https://www.pravda.com.ua",
+              name: "Github",
+              url: "https://www.github.com",
               icon: "news",
               icon_color: palette.green,
             },
             {
-              name: "mil.in.ua",
-              url: "https://mil.in.ua",
+              name: "Bitbucket",
+              url: "https://bitbucket.com",
               icon: "badge-filled",
               icon_color: palette.peach,
-            },
-            {
-              name: "куток",
-              url: "https://kutok.io",
-              icon: "border-radius",
-              icon_color: palette.red,
-            },
-            {
-              name: "ґрунт",
-              url: "https://grnt.media",
-              icon: "eye-bolt",
-              icon_color: palette.blue,
-            },
-            {
-              name: "village",
-              url: "https://www.village.com.ua",
-              icon: "home-2",
-              icon_color: palette.mauve,
             },
           ],
         },
