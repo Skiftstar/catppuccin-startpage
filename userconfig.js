@@ -10,7 +10,7 @@ let palette = initThemeSystem(preferredLightTheme, preferredDarkTheme);
 const default_configuration = {
   overrideStorage: true,
   temperature: {
-    location: "London",
+    location: "Berlin",
     scale: "C",
   },
   clock: {
@@ -32,7 +32,7 @@ const default_configuration = {
   openLastVisitedTab: true,
   tabs: [
     {
-      name: "myself",
+      name: "Skifty",
       background_url: "src/img/banners/banner_15.gif",
       categories: [
         {
